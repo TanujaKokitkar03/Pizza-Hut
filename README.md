@@ -1,3 +1,9 @@
+Pizza Hut is built using HTML, CSS, javascript and ReactJS.
+
+Features:
+- A simple Pizza Hut website with a navigation bar and a hero section.
+- The website has a responsive design, meaning it looks good on different screen sizes.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
